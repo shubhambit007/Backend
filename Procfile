@@ -1,0 +1,1 @@
+web: gunicorn SGGS_20_09_21.wsgi --log-file -
